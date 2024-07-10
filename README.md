@@ -1,4 +1,3 @@
-## Hi there 👋
 <h2 align="left">Hi 👋! My name is Dev Gupta, a Data Analyst and AI/ML Enthusiast from Kanpur, Uttar Pradesh.</h2>
 
 <div align="center">

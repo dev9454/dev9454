@@ -4,7 +4,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev9454&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<img src="https://intellipaat.com/blog/wp-content/uploads/2015/07/Big-Data.gif" style="float: right; max-width: 250px; height: auto;" />
+
+
+
 
 
 

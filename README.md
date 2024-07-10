@@ -8,6 +8,7 @@
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 <h3 align="left">💻 Projects</h3>
+
 - **Bug Tracking System | SQL, MySQL, DBMS, Data Analysis**
   - Developed a comprehensive Bug Tracking System to enhance the software development process.
   - Enabled developers to identify, document, and resolve software bugs seamlessly.
